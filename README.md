@@ -36,7 +36,7 @@ I'm not an ace of C++ and QT: if you don't find my code pretty never mind, becau
 Developed using:
 * Linux Ubuntu	16.04 - it won't work under Windows because it creates an intermediate shell script
 * QT5 + QT Creator 3.5
-* you will need a good GPU with as much VRAM as possible (I'm using a nVidia GeForce 1080Ti with 11Gb). The size of the output images if proportional to the amount of available VRAM you have
+* you will need a good GPU with as much VRAM as possible (I'm using a nVidia GeForce 1080Ti with 11Gb). The size of the output images is proportional to the amount of available VRAM you have
 
 <br/>
 <br/>

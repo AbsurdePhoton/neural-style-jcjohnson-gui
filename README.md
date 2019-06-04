@@ -3,7 +3,7 @@
 ## GUI by AbsurdePhoton www.absurdephoton.fr. This quick and dirty GUI uses QT
 ### v1.0 - 2018-01-08
 
-![Screenshot - Global](screenshots/screenshot-gui.jpg?raw=true)
+![Screenshot](screenshot-gui.jpg?raw=true)
 <br/>
 
 ## HISTORY

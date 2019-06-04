@@ -27,6 +27,7 @@ neural-style is a stunning piece of code, which can apply a style (e.g. Picasso,
 neural-style is nice, but the command-line is complex. So I wrote a simple GUI to use it!
 
 I'm not an ace of C++ and QT: if you don't find my code pretty never mind, because it WORKS, and that's all I'm asking of it :)
+In fact it was my first C++ code with QT... I've done much better since. 
 
 <br/>
 <br/>
